@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="" />
+    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="Hmm">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SkyTaco.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-00e93852e0ada4e0294b01e56f823b7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0545a260bb4c5408cb81dfc393dbbfce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-06e501a756af045f79e4a525bce38cc5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-087495df33da74d45b803bab0b1f8c05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1a1ec3124e7fc42feae233ffa298c50a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1c41e35f34f0a4931bf490303bdb346e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1d69fb07d2055400284effcb372911e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-205d7f5ee315340dfac30e437cdbda3f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-28e9549ee5e674436b34f81b991e3ce2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2ad4215f3ebda49498d681ec22f9189d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-34798ca13426d446babf580cf0383aaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3b34a2566c8644ba598e9d47fa65d832" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4700ad187f75641dfaadb31fd120d4b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-49b7f6b5def4540b8bb24a84ff850b0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-50822f1a940d44378bc354f218179d55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-51e95638b5123482d9db8105cf7e4f7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-57f8430aeb7a44c86a5c1283cf149052" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5afe27483dad244789e7ee49f2e4ee45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5e27eedc7c9b44cdb8b336f8e211296e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5ea6683635df04cb085f210834210afb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-64b1917907a024215ac85746f06c7508" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6aebc1a6771a9404f9916a143a5ba067" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6cac65947935548f0a087e3953eca5d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6e789a89cc7a04d2cb0e4c2fe48aa43d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6eef11a2673ba464b9282e8a968e273f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6fbe90fa949cd4373bb385f73c208869" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7001e6682f7d24fa6999d8244ecbf07d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-711a3ede409da494d8d3e1f33f986597" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-780f82b14bd3c468680ed7fd7ae0f4bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8e2dd310e2b5f432a8e699f4b87d2433" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8e461352e2d014a3c840d0e5a9bdb818" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8f4389798d58a46f1a85959c8540f24d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8fe87741ea1cf4703ab8d9f68a5f1cf1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-920c722ec7f4e4b229b5e8390185097e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9564a752c7b6d4b6c96d244f1a52dfd2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-977238e4376a1493a90ed0bc5c00cd19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-97747f3db5edb427d8127cecd265d424" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-99414426e7376458e93f62bbe944f681" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9fd648b37bc7b416387aff3646428231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a3a1b9ef513604454b2413c9657165ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b368eaece182344b3b5720ff9b9f8fa1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b57700f05075145b5809e234d9b4c436" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b60e222870cfe4b8ab37038263ba9271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-babf4413cffb6493c809ce1cf036c2ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bcb72b3b924f741249bd766c54f56830" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cddc575d6d3a14368a42a56c59feafc6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d3effbc7075144a85a78135cb7472221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d79428ec58c084dd99d992a5dc8f4999" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e47bdbd41bb6240b59025bb5b981dc91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e4a399834b6cd4823a6b29cd51f4adf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e8ca8ba5a69e44bbc9aac8259993e477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ea0381ef7ea784147bc88962c4cf7975" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f30b2ec0aceb14e74bc1e4322a2ef729" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f6d529adfdb574d049f7179140341997" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f74b579c8c4844d68ad7ca6584d49905" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f98c3f8acfe2c4d72b902ee7b2b27ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fb7e1d1ea4c8848cd84be3fd4a1cd2c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fce42bf155db14f9d807619c23865673" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ff8fb74f237a34c12a739b93518f76d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +97,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/adrian/UnityProjects/SkyTaco/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlatformScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -18,6 +113,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -37,6 +133,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -60,6 +157,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="" />
@@ -73,8 +173,17 @@
       <workItem from="1605092368657" duration="2428000" />
       <workItem from="1605109926065" duration="7670000" />
       <workItem from="1605184011243" duration="2000000" />
-      <workItem from="1605213176925" duration="385000" />
+      <workItem from="1605213176925" duration="1915000" />
+      <workItem from="1605251060563" duration="556000" />
     </task>
+    <task id="LOCAL-00001" summary="Hmm">
+      <created>1605251438713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605251438713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +191,51 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Hmm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hmm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="429" key="Github.ShareDialog" timestamp="1605213923247">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="713" y="429" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605213923247" />
+    <state x="553" y="238" key="Github.UntrackedFilesDialog" timestamp="1605213986207">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="553" y="238" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605213986207" />
+    <state x="648" y="253" key="RollbackChangesDialog" timestamp="1605250762010">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="648" y="253" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605250762010" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1605250906240">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1605250906240" />
+    <state x="718" y="446" key="VCS.EditChangelistDialog" timestamp="1605251347782">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="718" y="446" key="VCS.EditChangelistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605251347782" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605251441930">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605251441930" />
+    <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605250571464">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605250571464" />
   </component>
 </project>
