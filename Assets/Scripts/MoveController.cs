@@ -12,6 +12,7 @@ public class MoveController : MonoBehaviour
     private SpriteRenderer m_Renderer;
     private Animator m_Animator;
     private bool jumping = false;
+    private Vector3Int lastpos;
 
     public void Start()
     {
@@ -26,7 +27,10 @@ public class MoveController : MonoBehaviour
         
         if (Input.GetKey(KeyCode.RightArrow) )
         {
-            Move(getSpeed(),0);
+            if(m_Rigidbody2D.position.x < 9)
+                Move(getSpeed(),0);
+            else 
+                StopHorizontal();
             m_Renderer.flipX = false;
         }
 
@@ -37,7 +41,10 @@ public class MoveController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
-            Move(-getSpeed(),0);
+            if(m_Rigidbody2D.position.x > -9)
+                Move(-getSpeed(),0);
+            else
+                StopHorizontal();
             m_Renderer.flipX = true;
         }
 
@@ -48,12 +55,10 @@ public class MoveController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && !jumping)
         {
-            Move(0, 8.5f);
+            Move(0, 10f);
         }
 
-        var posis = m_Rigidbody2D.position;
-        var hit = Physics2D.Raycast(new Vector2(posis.x,posis.y), -Vector2.up);
-        jumping = hit.distance > 0.5f || hit.distance == 0.0f;
+        jumping = Math.Abs( m_Rigidbody2D.velocity.y) > 0.1;
         m_Animator.SetFloat("Speed", Math.Abs(m_Rigidbody2D.velocity.x));
         m_Animator.SetBool("Jumping",jumping);
     }
@@ -80,4 +85,6 @@ public class MoveController : MonoBehaviour
         m_Rigidbody2D.velocity = velocity;
         
     }
+
+    
 }

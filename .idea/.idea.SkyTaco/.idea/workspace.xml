@@ -19,14 +19,37 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="Hmm" />
+    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="Aha">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlatformScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlatformScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Environment/Terrain/Terrain (16x16).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/Terrain/Terrain (16x16).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tilepalettes/Tiles/Grass.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tilepalettes/Tiles/Grass.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tilepalettes/Tiles/Grass1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tilepalettes/Tiles/Grass1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/AnnotationManager" beforeDir="false" afterPath="$PROJECT_DIR$/Library/AnnotationManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/0eb7ec-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/0eb7ec-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/4927cd-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/4927cd-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,9 +65,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BoyController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformScript.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +128,7 @@
       <workItem from="1605109926065" duration="7670000" />
       <workItem from="1605184011243" duration="2000000" />
       <workItem from="1605213176925" duration="1915000" />
-      <workItem from="1605251060563" duration="894000" />
+      <workItem from="1605251060563" duration="7179000" />
     </task>
     <task id="LOCAL-00001" summary="Hmm">
       <created>1605251438713</created>
@@ -121,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605252145874</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aha">
+      <created>1605252174903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605252174903</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +174,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Hmm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hmm" />
+    <MESSAGE value="Aha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aha" />
   </component>
   <component name="WindowStateProjectService">
     <state x="713" y="429" key="Github.ShareDialog" timestamp="1605213923247">
@@ -167,10 +198,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="718" y="446" key="VCS.EditChangelistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605251347782" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605252022438">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605252177796">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605252022438" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605252177796" />
     <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605252028238">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
