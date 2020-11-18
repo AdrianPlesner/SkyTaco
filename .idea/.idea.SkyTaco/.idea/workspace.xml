@@ -19,74 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="Aha">
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/CuteEnemy.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/CuteEnemy.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/01/01e29772605e27460c7711ef115ad69f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/08/083118b39ccb8796e97a36eec63fd8cd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/09/0959395b67e880bd9018a222680298c4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/15/153eb22b5a230c7d4fcc3fd74498bf9f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/15/156997561526d5b55b66962432fbd89b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/17/17137f95c8625515de5a1625f3f255f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1c/1cb83f913cc6d64b8fed8dc9132ec1e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1c/1cd6e37b39115b3d9261e8316d4e78c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28283e83c596a64bda05f25643bb7010" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28bd16bd80aa0994a3fea044100a8810" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/30/309805c708cd1ab24ff89840866c17d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/40/405ca273c94bbcc356c9f2f345e275ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/44/445750294625700ea8e17ce106037edf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/56/565ca723bb98fb0260c683320d4edfd2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/57/5717177b91a71e35fd44ab7dca604604" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6f/6fa9e0930b7c0ae349ba7da1f80b553a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/71/71e3621a229020b4dd67eea07cab024e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/72/725914a797a5bc5a4da9dfd31aed9b1d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7b/7bba4a42cbbdd9037bef7a6dbfa2e2f9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7f/7f5381e5204fd66d98590ba80b932467" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/84/84aff6f8573372472a06c61b00d92964" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/85/8569b0b84dc41ac23ff7affea0929ac1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/86/86e0162a5b8781ab0e5495de22f55098" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/86/86e858952b0e7cffe29e1daca1ebef8e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8d/8dd2adb389b97d2c89684593a8cc31ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/91/9174e5cbf9e0dd0e86e589b9c5e804eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/93/9308ba2308c2a525ee684620d914751d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/99/998a70689c18d972a4b665c776c4a8ce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9d/9dfe8c9098efe8c8f7da7bb0614d4283" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9d/9dfec70e1230aac690590fc907c2663f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9e/9e78d967e754443e4bc25b6100e3e717" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a2/a22e8bb12bafc62c741c8ac2213eada4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a7/a74eab5fbdd4bb0d1541f2d32966e890" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a8/a8b9d6dd41d841a62bc37a35184d3215" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/aa/aaf13ddc317c08b485a719c2b01bcaa5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ab/ab440c9e015722d1b3315bd7ddbbbee1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b4/b4ce87f29d5aef445aa1a30ef7424789" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b5/b59eff3779240736b27d8309e2d0a6c2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b7/b7ce54328e35db2c702f41699d4151c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b8/b8ac9783edf03f2d73d477532e648e46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c0ed119bb147fe1f9e2a81222ac6032a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c1/c1e7d8e537e45602e890a31d696b1137" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c6/c67c77862957cc7480d3802e28dc44b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c7/c7e29a064e53012c424705cd4dc9a71c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ca/ca8d79eb6f60228b8f8014cc07d9cb6f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ca/caec8bd23db97eeafc54e509b759c3e7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cc/cceef66f96c115ca0d661393cfab5e08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cf/cf5ba756f1f9ad1a76893c5895ad371b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d4/d43229153e066d19c17debf11afe453a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e5/e5e49eb3f8e08ac31465ff61d8a56c71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ea/eacd2afc9468261c5866d7950ac7f6cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ee/eecd946bdb76dfdb57fc24a96ed320e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f0/f0e99633a6b6a2685e96e9369f1a8d0b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fd/fd72cbdc8ccc4a7041f576e3f238d2e1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/0eb7ec-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/0eb7ec-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/4927cd-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/4927cd-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-    </list>
+    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="Remove library folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +66,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -175,7 +108,7 @@
       <workItem from="1605184011243" duration="2000000" />
       <workItem from="1605213176925" duration="1915000" />
       <workItem from="1605251060563" duration="7179000" />
-      <workItem from="1605456619979" duration="816000" />
+      <workItem from="1605456619979" duration="1139000" />
     </task>
     <task id="LOCAL-00001" summary="Hmm">
       <created>1605251438713</created>
@@ -205,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605456652283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Remove library folder">
+      <created>1605692184365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605692184365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +170,8 @@
     <MESSAGE value="Hmm" />
     <MESSAGE value="Aha" />
     <MESSAGE value="WIP: jumping" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP: jumping" />
+    <MESSAGE value="Remove library folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove library folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="713" y="429" key="Github.ShareDialog" timestamp="1605213923247">
@@ -245,10 +186,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="648" y="253" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605250762010" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1605250906240">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1605692044262">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1605250906240" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1605692044262" />
     <state x="691" y="445" key="VCS.ChangelistChooser" timestamp="1605691795181">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -257,10 +198,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="718" y="446" key="VCS.EditChangelistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605251347782" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605456654817">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605692191104">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605456654817" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605692191104" />
     <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605691400122">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
