@@ -81,7 +81,6 @@ public class MoveController : MonoBehaviour
             newVelocity.x = x == 0 ? velocity.x : x;
         newVelocity.y = y == 0 ? velocity.y : y;
         velocity = newVelocity;
-        //m_Rigidbody2D.velocity = velocity;
         m_Rigidbody2D.velocity = velocity;
         
     }

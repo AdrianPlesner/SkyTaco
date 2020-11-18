@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="Remove library folder" />
+    <list default="true" id="3863aead-9cc4-4994-8a7f-ba8e1b2b364d" name="Default Changelist" comment="Remove library folder">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyTaco/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyTaco/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +50,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundScript.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveController.cs" />
       </list>
     </option>
   </component>
@@ -108,7 +114,7 @@
       <workItem from="1605184011243" duration="2000000" />
       <workItem from="1605213176925" duration="1915000" />
       <workItem from="1605251060563" duration="7179000" />
-      <workItem from="1605456619979" duration="1139000" />
+      <workItem from="1605456619979" duration="2574000" />
     </task>
     <task id="LOCAL-00001" summary="Hmm">
       <created>1605251438713</created>
@@ -145,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605692184365</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Remove library folder">
+      <created>1605692315145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605692315145</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +179,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Hmm" />
     <MESSAGE value="Aha" />
@@ -198,10 +212,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="718" y="446" key="VCS.EditChangelistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605251347782" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605692191104">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605692332925">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605692191104" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605692332925" />
     <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605691400122">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
